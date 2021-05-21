@@ -69,7 +69,7 @@ class ResumeSection extends Component {
                 </div>
                 <h3 className="resume-title">Education</h3>
                 <div className="resume-item">
-                  <h4>Master of Engineering </h4>
+                  <h4>Bachelor of Engineering </h4>
                   <h5>2009 - 2013</h5>
                 </div>
               </div>
